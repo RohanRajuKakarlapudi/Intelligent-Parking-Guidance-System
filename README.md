@@ -1,7 +1,3 @@
-# Intelligent-Parking-Guidance-System
-Revolutionizing parking with the Intelligent Parking Guidance System, which utilizes ultrasonic sensors and LED indicators to optimize safety and efficiency. This award-winning system ensures precise vehicle positioning and reduces collision risks in both commercial and residential parking areas.
-
-
 # Intelligent Parking Guidance System
 
 The Intelligent Parking Guidance System is an innovative solution designed to enhance parking safety and efficiency using advanced sensor technology and smart signal processing. Developed and showcased at UIC's Engineering EXPO 2024, the system has been recognized with the Best in Show award for its effectiveness in managing blind spots and reducing parking lot accidents.
@@ -45,3 +41,10 @@ Building on the success at the UIC Engineering Expo and subsequent feedback, fut
 - **Expansion Plans**: Looking to partner with commercial and residentil complexes to implement and test our system on a larger scale.
 
 Thank you to everyone who has supported and believed in the potential of the Intelligent Parking Guidance System. Here's to further innovation and making every parking experience safe and seamless!
+
+## Recognition and Certificates
+
+Proud to share the recognition received for our efforts at the Engineering EXPO 2024 at the University of Illinois Chicago. Here is the [certificate of recognition](./path_to_certificate_file) awarded for being selected as the best team from the CS department UIC.
+
+
+
