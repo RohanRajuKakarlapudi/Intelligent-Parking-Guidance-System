@@ -44,7 +44,7 @@ Thank you to everyone who has supported and believed in the potential of the Int
 
 ## Recognition and Certificates
 
-Proud to share the recognition received for our efforts at the Engineering EXPO 2024 at the University of Illinois Chicago. Here is the [certificate of recognition](./path_to_certificate_file) awarded for being selected as the best team from the CS department UIC.
+Proud to share the recognition received for our efforts at the Engineering EXPO 2024 at the University of Illinois Chicago. Here is the [certificate of recognition](IPGS.jpg) awarded for being selected as the best team from the CS department UIC.
 
 
 
