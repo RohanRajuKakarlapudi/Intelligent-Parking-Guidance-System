@@ -34,7 +34,7 @@ The demand for reliable, scalable, and efficient parking solutions is increasing
 We extend our gratitude to the UIC Innovation team, our mentors, and all participants at the Demo Day for their invaluable insights and feedback.
 Special thanks to my teammates Om Goyal and Syed Sufiyan Ahemd for their dedication and creativity throughout the project development.
 
-## Future Directions
+## Future Endeavours
 
 Building on the success at the UIC Engineering Expo and subsequent feedback, future developments will focus on:
 - **Technological Advancements**: Integrating more sophisticated sensor technologies and machine learning algorithms for predictive analytics and automated management.
